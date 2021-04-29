@@ -1,4 +1,4 @@
-<h1 align="center"> ESET Cyber Security Big Sur Inspired-Icon </h1>
+<h1 align="center"> ESET Cyber Security Big Sur Inspired Icon </h1>
 <h5 align="center"> ESET Cyber Security Big Sur Inspired Icon for macOS Big Sur. </h5>
 
 ![alt text](https://github.com/michalspano/ESET-Cyber-Security-Big-Sur-Inspired-Icon/blob/main/eset-icon-wallpaper.png?raw=true)
